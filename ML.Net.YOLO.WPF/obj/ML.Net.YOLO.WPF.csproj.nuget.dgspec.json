@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\feder\\Source\\repos\\ML.Net\\ML.Net.YOLO.WPF\\ML.Net.YOLO.WPF.csproj": {}
+    "D:\\Github\\ML.Net\\ML.Net.YOLO.WPF\\ML.Net.YOLO.WPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\feder\\Source\\repos\\ML.Net\\ML.Net.YOLO.WPF\\ML.Net.YOLO.WPF.csproj": {
+    "D:\\Github\\ML.Net\\ML.Net.YOLO.WPF\\ML.Net.YOLO.WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\feder\\Source\\repos\\ML.Net\\ML.Net.YOLO.WPF\\ML.Net.YOLO.WPF.csproj",
+        "projectUniqueName": "D:\\Github\\ML.Net\\ML.Net.YOLO.WPF\\ML.Net.YOLO.WPF.csproj",
         "projectName": "ML.Net.YOLO.WPF",
-        "projectPath": "C:\\Users\\feder\\Source\\repos\\ML.Net\\ML.Net.YOLO.WPF\\ML.Net.YOLO.WPF.csproj",
+        "projectPath": "D:\\Github\\ML.Net\\ML.Net.YOLO.WPF\\ML.Net.YOLO.WPF.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\feder\\Source\\repos\\ML.Net\\ML.Net.YOLO.WPF\\obj\\",
+        "outputPath": "D:\\Github\\ML.Net\\ML.Net.YOLO.WPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
